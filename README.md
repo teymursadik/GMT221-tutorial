@@ -23,4 +23,4 @@
 
 - README.md dosyasını tamamladıktan sonra `git add README.md`, `git commit -m "Readme dosyası eklendi"` ve `git push` komutlarını çalıştırdım.
 
-![foto](https://github.com/teymursadik/GMT221-tutorial/blob/master/C:\Users\ACER\Desktop\referans git hw\img\Ekran görüntüsü 2025-03-21 132747.png)
+![foto](C:\Users\ACER\Desktop\referans git hw\img\Ekran görüntüsü 2025-03-21 132747.png)
